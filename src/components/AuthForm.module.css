@@ -1,0 +1,36 @@
+.loginform {
+    background-color: rgba(0, 157, 255, 0.178);
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+    border: 2px solid slategray;
+    /* margin: 5% 40%; */
+}
+input{
+    width: 98%;
+    height: 30px;
+    border-radius:  12px;
+    background-color: rgba(255, 255, 255, 0.429);
+    border: 1px solid rgba(128, 128, 128, 0.534);
+}
+input :hover{
+    border: 1px solid rgba(0, 0, 255, 0.193);
+}
+button{
+    margin-left: 35%;
+    height: 30px;
+    width: 60px;
+    background-color: rgba(255, 255, 255, 0.511);
+    border: 1px solid rgba(128, 128, 128, 0.364);
+    border-radius: 5px;
+}
+a{
+    margin-left: 38%;
+    color: rgba(0, 0, 255, 0.575);
+    text-decoration: none;
+}
+form h1{
+    margin-left: 35%;
+    color: rgb(95, 176, 225);
+}
